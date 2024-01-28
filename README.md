@@ -19,5 +19,8 @@ Here are some ideas to get you started:
   <br/>
   Trabalho sempre com as bibliotecas e frameworks mais atualizados do mercado de front-end. 
   <br/>
+  <br/>
   Tenho experiência com:
+  <br/>
+  
 </p>
