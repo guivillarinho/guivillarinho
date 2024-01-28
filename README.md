@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aqui é o Villarinho, tudo jóia? 👋
 
 <!--
 **guivillarinho/guivillarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Sou um programador com foco no usuário final, sempre almejando alcançar a melhor experiência nas minhas aplicações.</p>
+<p>
+  Sou um programador com foco no usuário final, sempre almejando alcançar a melhor experiência nas minhas aplicações.
+  <br/>
+  Trabalho sempre com as bibliotecas e frameworks mais atualizados do mercado de front-end. 
+  <br/>
+  Tenho experiência com:
+</p>
